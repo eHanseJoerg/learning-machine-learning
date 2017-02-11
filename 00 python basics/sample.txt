@@ -1,0 +1,2 @@
+Write a first line in the text file
+I like bacon
